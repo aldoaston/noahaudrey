@@ -338,7 +338,7 @@
         <!-- section end -->
 
         <!-- section -->
-        <section class="gla_section gla_image_bck gla_fixed gla_wht_txt" data-stellar-background-ratio="0.8" data-image="images/wedding/andy_jeska/10100565866_2fd1627ee6_k.jpg">
+        <section class="gla_section gla_image_bck gla_fixed gla_wht_txt" data-stellar-background-ratio="0.8" data-image="images/\na_images_edited/thanku.jpg">
             
             <!-- Over -->
             <div class="gla_over" data-color="#282828" data-opacity="0.4"></div>
