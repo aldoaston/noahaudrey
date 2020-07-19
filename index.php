@@ -57,7 +57,7 @@
             <div class="container">
                 
                 <div class="gla_logo_container clearfix">
-                    <img src="images/glanz_logo.png" alt="" class="gla_logo_rev">
+                    <img src="images/na_images_edited/na_logo.png" alt="" class="gla_logo_rev">
                     <div class="gla_logo_txt">
                         <!-- Logo -->
                         <a class="gla_logo">Noah & Audrey</a>
@@ -129,10 +129,10 @@
             
             <div class="container text-center">
                 <p><img src="images/animations/flowers.gif" data-bottom-top="@src:images/animations/flowers.gif" height="150" alt=""></p>
-                <h2>Our Story</h2>
-                <h3 class="gla_subtitle">The Fourth of July</h3>
+                <!-- <h2>Our Story</h2>
+                <h3 class="gla_subtitle">The Fourth of July</h3> -->
 
-                <p>My fiancé proposed on the Fourth of July. My mother asked us to go to the backyard to get some chairs and he took me by the shed where we could see all of the fireworks. He kissed me, then he took the ring box out of his pocket and asked me to be his wife. He was shaking a little. The proposal was a little silly but perfect, just like him." — Jeska Cords</p>
+                <p>"And the two shall become One" — EPHESIANS 5:31</p>
                 
             </div>
             <!-- container end -->
@@ -150,7 +150,7 @@
             <div class="container text-center">
                 <p><img src="images/animations/savethedate_wh.gif" data-bottom-top="@src:images/animations/savethedate_wh.gif" height="150" alt=""></p>
                 <h2>August 08th, 2020</h2>
-                <h3 class="gla_subtitle">St. Thomas's Church,<br>Surabaya, Indonesia</h3>
+                <h3 class="gla_subtitle">Shangri-La Hotel Ballroom A,<br>Surabaya, Indonesia</h3>
                 <div class="gla_countdown" data-year="2020" data-month="08" data-day="08"></div>
                 
             </div>
@@ -167,40 +167,40 @@
             <div class="container text-center">
                 <p><img src="images/animations/flowers2.gif" data-bottom-top="@src:images/animations/flowers2.gif" height="150" alt=""></p>
                 <h2>Wedding Details</h2>
-                <h3 class="gla_subtitle">When & Where</h3>
+                <!-- <h3 class="gla_subtitle">When & Where</h3>
                 <p>
                     Our ceremony and reception will be held at the Shangri-la Ballroom. <br>
                     Located on the Mayjend Sungkono. <br><br>
                     August 08th, 2020
-                </p>
+                </p> -->
                 <!-- boxes -->
                 <div class="gla_icon_boxes row text-left">
 
                     <!-- item -->
-                    <div class="col-md-4 col-sm-6">
+                    <div class="col-md-6 col-sm-6">
                         <a class="gla_news_block">
                             <span class="gla_news_img">
                                 <span class="gla_over" data-image="images/wedding/andy_jeska/600x600/10095142066_6a86ebfe67_k.jpg"></span>    
                             </span>
                            
 
-                            <span class="gla_news_title">The Venue</span>
-                            <p><strong>St. Thomas's Church,</strong><br>Bristol, U.K.</p>
+                            <span class="gla_news_title">Holy Matrimony</span>
+                            <p><strong>Shangri-La Hotel | Pelangi Room | 10.00 am</strong><br>Surabaya, Indonesia.</p>
 
 
                         </a>
                     </div> 
 
                     <!-- item -->
-                    <div class="col-md-4 col-sm-6">
+                    <div class="col-md-6 col-sm-6">
                         <a class="gla_news_block">
                             <span class="gla_news_img">
                                 <span class="gla_over" data-image="images/wedding/andy_jeska/600x600/10100100896_8b80e531d1_k.jpg"></span>  
                             </span>
                            
 
-                            <span class="gla_news_title">What to Wear</span>
-                            <p><strong>Keep it classy</strong>. <br>No jeans or cowboy hats please.</p>
+                            <span class="gla_news_title">Wedding Reception</span>
+                            <p><strong>Shangri-La Hotel | Ballroom A | 14.30 pm</strong><br>Surabaya, Indonesia.</p>
 
 
                         </a>
@@ -208,7 +208,7 @@
 
 
                     <!-- item -->
-                    <div class="col-md-4 col-sm-6">
+                    <!-- <div class="col-md-4 col-sm-6">
                         <a class="gla_news_block">
                             <span class="gla_news_img">
                                 <span class="gla_over" data-image="images/wedding/600x600/q9nabuuiuvq-scott-webb.jpg"></span>  
@@ -220,7 +220,7 @@
 
 
                         </a>
-                    </div> 
+                    </div>  -->
 
 
                 </div>
@@ -251,17 +251,23 @@
                 <div class="gla_icon_boxes gla_partners row">
                     <!-- item -->
                     <div class="gla_partner_box">
-                        <a href="#"><img src="images/partners/kosongan.png" height="auto" alt=""></a>
-                    </div>
-                    <div class="gla_partner_box">
                         <a href="#"><img src="images/partners/zoom.png" height="auto" alt=""></a>
                     </div>
-
-                    <!-- item -->
                     <div class="gla_partner_box">
                         <a href="https://www.youtube.com/watch?v=hKY4gXR7y30"><img src="images/partners/youtube.png" height="auto" alt=""></a>
                     </div>
-
+                    <div class="gla_partner_box">
+                        <a href="https://www.instagram.com/gnfi/"><img src="images/partners/ig.png" height="auto" alt=""></a>
+                    </div>
+                    <!-- <div class="gla_partner_box">
+                        <a href="#"><img src="images/partners/kosongan.png" height="auto" alt=""></a>
+                    </div> -->
+                    <div class="gla_partner_box">
+                        <a href="#"><img src="images/partners/zoom.png" height="auto" alt=""></a>
+                    </div>
+                    <div class="gla_partner_box">
+                        <a href="https://www.youtube.com/watch?v=hKY4gXR7y30"><img src="images/partners/youtube.png" height="auto" alt=""></a>
+                    </div>
                     <div class="gla_partner_box">
                         <a href="https://www.instagram.com/gnfi/"><img src="images/partners/ig.png" height="auto" alt=""></a>
                     </div>
@@ -285,50 +291,16 @@
             
             
             <div class="container text-center">
-                <p><img src="images/animations/rsvp.gif" data-bottom-top="@src:images/animations/rsvp.gif" height="180" alt=""></p>
+                <!-- <p><img src="images/animations/rsvp.gif" data-bottom-top="@src:images/animations/rsvp.gif" height="180" alt=""></p> -->
+                <p><img src="images/na_images_edited/na_logo.png" height="50" alt=""></p>
                 
-                <div class="row">
-                    <div class="col-md-8 col-md-push-2">
-                        <form action="https://formspree.io/your@mail.com" method="POST">
-                            <div class="row">
-                                <div class="col-md-6">
-                                    <label>Your name*</label>
-                                    <input type="text" name="name" class="form-control form-opacity">
-                                </div>
-                                <div class="col-md-6">
-                                    <label>Your e-mail*</label>
-                                    <input type="text" name="email" class="form-control form-opacity">
-                                </div>
-                  
-                                <div class="col-md-6">
-                                    <label>Will you attend?</label>
+        
+                    <!-- <h2>Our Story</h2>
+                    <h3 class="gla_subtitle">The Fourth of July</h3> -->
 
-                                    <input type="radio" name="attend" value="Yes, I will be there">
-                                    <span>Yes, I will be there</span><br>
-                                    <input type="radio" name="attend" value="Sorry, I can't come">
-                                    <span>Sorry, I can't come</span>
-                                    
-                                </div>
-                                <div class="col-md-6">
-                                    <label>Meal preference</label>
-                                    <select name="meal" class="form-control form-opacity">
-                                        <option value="I eat anything">I eat anything</option>
-                                        <option value="Beef">Beef</option>
-                                        <option value="Chicken">Chicken</option>
-                                        <option value="Vegetarian">Vegetarian</option>
-                                    </select>
-                                </div>
-                                <div class="col-md-12">
-                                    <label>Notes</label>
-                                    <textarea name="message" class="form-control form-opacity"></textarea>
-                                </div>
-                                <div class="col-md-12">
-                                    <input type="submit" class="btn submit" value="Send">
-                                </div>
-                            </div>
-                        </form>
-                    </div>
-                </div>
+                    <p>"I Hold you in my heart. For we have shared together God's blessings." - PHILLIPIANS 1 : 7</p>
+                
+              
                 
                 
             </div>
